@@ -10,6 +10,9 @@
 
 This application serves as an app prototype where the user can access a teacher timesheet database. The user is able to see their time (enter hours, see previous hours, delete hours), see their roster, see their pay (calculate next pay, export hours/pay to a CSV file - test.csv is included but program will create a new file if does not exist), see their info (print personal info summary, update their school location). 
 
+# Demonstration
+I created the following [video](https://drive.google.com/file/d/1TIMHzi8UsTYC3Qz3MngW8Me1V1ead4t4/view?usp=sharing) that demonstrates the app prototype and functionalities. 
+
 # Files
 1. main_app.py
 2. sql_operations.py
